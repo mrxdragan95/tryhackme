@@ -11,11 +11,13 @@ Googled the Talaat Harb Square then found Talaat Harb Street on Wiki
 **A-THM{Talaat Harb Street, Cairo, Egypt}**
 
 **2.What time did the bridge shown in the second picture open?**
+
 ![alt text](img/4.jpg)
 ![alt text](img/5.jpg)
 Using Google, Yandex etc.
 
 ![alt text](img/6.jpg)
+
 Found Freedom Bridge on the Nile River in Juba, South Sudan. Googling Freedom Bridge in South Sudan.
 ![alt text](img/7.jpg)
 **Bingo!**
