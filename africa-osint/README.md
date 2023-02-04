@@ -28,7 +28,7 @@ If you are stuck inside this room, ask for help in the TryHackMe discord. You ma
 
 ## First Challenge
 
-![alt text](Task2.jpg)
+![alt text](img/Task2.jpg)
 
 1. Where was the first picture taken? 
 2. What time did the bridge show in the second picture open? Hint: A-THM{MONTH-DAY-YEAR}
