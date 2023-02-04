@@ -1,5 +1,7 @@
 # Welcome to Africa OSINT
 
+
+
 In the room, we investigate the practice of various OSINT techniques that have been used in Africa. This is important for Image intelligence, geospatial intelligence, social networks, search engines, Language translation, and other OSINT. This room is appropriate for those of you who have just learned about your different OSINT journey. 
 
 ## What is OSINT?
