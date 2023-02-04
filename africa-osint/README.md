@@ -21,12 +21,12 @@ If you are stuck inside this room, ask for help in the TryHackMe discord. You ma
 
 **Here is the answer to the question: Tayari**
 
-#Task 1
+# Task 1
 1. Do you understand the flag format? Hint: A-THM{???}
 
-#Task 2
+# Task 2
 
-First Challenge
+## First Challenge
 
 1. Where was the first picture taken? 
 2. What time did the bridge show in the second picture open? Hint: A-THM{MONTH-DAY-YEAR}
@@ -34,9 +34,9 @@ First Challenge
 4. Where was the fourth picture captured?
 5. Where was that last picture taken? Hint: The Rock between Europe and Africa.
 
-#Task 3
+# Task 3
 
-Second Challenge
+## Second Challenge
 
 Background of fiction
 I am Ikhlas Otoo. I'm a professional artist-researcher.
@@ -50,9 +50,9 @@ I published the history of art in West Africa and I am working on organized busi
 3. Decode the following; <)un;9e^g3;H-+]AQ2Pb<)umdA5t?N:fK,3 - to identify the Latitude and Longitude encoded?
 4. [Research] What are the four types of attacks In Equatorial Guinea and Cameroon that have been carried out since at least mid-2017? Hint: See who writes the comment.
 
-#Task 4
+# Task 4
 
-Third Challenge
+## Third Challenge
 
 ![alt text](img/44.jpg)
 
@@ -74,9 +74,9 @@ Mtn teams
 4. What are the dialling codes for Rwanda, Ethiopia, and Madagascar?
 5. [Research] How to translate "no worries" in Swahili? Hint: Attempt to translate 1337
 
-#Task 5
+# Task 5
 
-Fourth Challenge
+## Fourth Challenge
 
 1. Which airline operates every day flight from Johannesburg to Victoria Falls at 10:50 AM and what is the flight number?
 2. What is the route of the flight BOT323/BP323?
@@ -92,15 +92,15 @@ Fourth Challenge
   8) NSD 337 AH
   9) SD CD 342
 
-#Task 6
+# Task 6
 
-Fifth Challenge
+## Fifth Challenge
 
 1. Name the regions of the African Union from challenges #1 to #5? Hint: Attempt to translate 1337 :)
 
-#Task 7
+# Task 7
 
-Conclusion
+## Conclusion
 
 As you know OSINT is the technique of collecting accessible information from the public and you still focus on the OSINT framework to use tools from various rooms and platforms. This room is created with the goal for the participants to have fun and to learn some facts about Africa. If you enjoyed doing the given tasks, please leave your comment. As this is my first attempt to build the room I would appreciate any good words or criticism.
 
