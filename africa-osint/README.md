@@ -40,12 +40,12 @@ If you are stuck inside this room, ask for help in the TryHackMe discord. You ma
 
 ## Second Challenge
 
-Background of fiction
-I am Ikhlas Otoo. I'm a professional artist-researcher.
-I published the history of art in West Africa and I am working on organized business conferences but I'm mostly known for the exploration of traditional African art. I have been analyzing African clay sculpture.
+*Background of fiction*
+*I am Ikhlas Otoo. I'm a professional artist-researcher.
+I published the history of art in West Africa and I am working on organized business conferences but I'm mostly known for the exploration of traditional African art. I have been analyzing African clay sculpture.*
 
-“African art is functional; it serves a purpose. It's not a dormant. It's not a means to collect the largest cheering section. It should be healing, a source a joy. Spreading positive vibrations.”
--- Mos Def
+*“African art is functional; it serves a purpose. It's not a dormant. It's not a means to collect the largest cheering section. It should be healing, a source a joy. Spreading positive vibrations.”*
+*-- Mos Def*
 
 1. Where the IP Owner 154[.]73[.]167[.]188 is from?
 2. Decode the following elements: NDEuMTg5LjE5Mi4w in order to find out what is the country's currency?
@@ -58,17 +58,17 @@ I published the history of art in West Africa and I am working on organized busi
 
 ![alt text](img/44.jpg)
 
-Dear customer,
+*Dear customer,*
 
-As you are aware Internet connection does not work properly because of technical issues after a power outage. We apologise for any disturbance. The IT team recognises the business effect of the outage and shares the frustration.  
+*As you are aware Internet connection does not work properly because of technical issues after a power outage. We apologise for any disturbance. The IT team recognises the business effect of the outage and shares the frustration.*
 
-We experience downtime in extremely rare cases and feel deeply sorry for the incidents. A full explanation of the technical problem can be found in the blog: hxxps[://]www[.]mtn[.]co[.]ug/
+*We experience downtime in extremely rare cases and feel deeply sorry for the incidents. A full explanation of the technical problem can be found in the blog: hxxps[://]www[.]mtn[.]co[.]ug/*
 
-If you have any questions, please do not hesitate to contact our customer support. 
+*If you have any questions, please do not hesitate to contact our customer support.*
 
-Sincerely.
+*Sincerely.*
 
-Mtn teams
+*Mtn teams*
 
 1. In which city is the street shown on the glitch picture and under what name the street is registered?
 2. On what date was the site first captured by the archive? (DD-MM-YYYY)
@@ -84,15 +84,15 @@ Mtn teams
 2. What is the route of the flight BOT323/BP323?
 3. What UN/LOCODE two ports are in Namibia?
 4. Which four of the following are license plates of Eswatini?
-  1) SC 141 07
-  2) OSD 613 AL
-  3) ASD 143 CM
-  4) KBW 1337 
-  5) UBB 420U
-  6) HSD 936 BM
-  7) PM RF 1991
-  8) NSD 337 AH
-  9) SD CD 342
+  *1) SC 141 07*
+  *2) OSD 613 AL*
+  *3) ASD 143 CM*
+  *4) KBW 1337* 
+  *5) UBB 420U*
+  *6) HSD 936 BM*
+  *7) PM RF 1991*
+  *8) NSD 337 AH*
+  *9) SD CD 342*
 
 # Task 6
 
