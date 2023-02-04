@@ -1,6 +1,6 @@
 # Welcome to Africa OSINT
 
-![alt text](img/downnload.jpg)
+![alt text](img/download.jpg)
 
 In the room, we investigate the practice of various OSINT techniques that have been used in Africa. This is important for Image intelligence, geospatial intelligence, social networks, search engines, Language translation, and other OSINT. This room is appropriate for those of you who have just learned about your different OSINT journey. 
 
@@ -27,6 +27,8 @@ If you are stuck inside this room, ask for help in the TryHackMe discord. You ma
 # Task 2
 
 ## First Challenge
+
+![alt text](Task2.jpg)
 
 1. Where was the first picture taken? 
 2. What time did the bridge show in the second picture open? Hint: A-THM{MONTH-DAY-YEAR}
