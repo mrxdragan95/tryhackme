@@ -40,7 +40,7 @@ If you are stuck inside this room, ask for help in the TryHackMe discord. You ma
 
 ## Second Challenge
 
-*Background of fiction*
+*Background of fiction*<br>
 *I am Ikhlas Otoo. I'm a professional artist-researcher.
 I published the history of art in West Africa and I am working on organized business conferences but I'm mostly known for the exploration of traditional African art. I have been analyzing African clay sculpture.*
 
